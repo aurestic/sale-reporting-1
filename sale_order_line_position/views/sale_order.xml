@@ -13,7 +13,7 @@
                 <field name="position" force_save="1" />
             </xpath>
             <xpath
-                expr="//field[@name='order_line']//tree//field[@name='sequence']"
+                expr="//field[@name='order_line']//list//field[@name='sequence']"
                 position="after"
             >
                 <field name="position" string="Pos" force_save="1" optional="hide" />

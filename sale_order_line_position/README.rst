@@ -91,14 +91,21 @@ Contributors
 
 -  Thierry Ducrest <thierry.ducrest@camptocamp.com>
 -  `Trobz <https://trobz.com>`__:
--  Nguyen Hoang Hiep <hiepnh@trobz.com>
--  Do Anh Duy <duyda@trobz.com>
+
+   -  Nguyen Hoang Hiep <hiepnh@trobz.com>
+   -  Do Anh Duy <duyda@trobz.com>
+   -  Kien Kim Khoi <khoikk@trobz.com>
 
 Other credits
 -------------
 
 The migration of this module from 16.0 to 17.0 was financially supported
 by Camptocamp
+
+The migration of this module from 17.0 to 18.0 was financially supported
+by:
+
+-  Camptocamp
 
 Maintainers
 -----------
