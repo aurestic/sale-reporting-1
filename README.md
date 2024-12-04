@@ -37,7 +37,7 @@ addon | version | maintainers | summary
 [sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 15.0.1.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered subtotal
 [sale_report_delivered_volume](sale_report_delivered_volume/) | 15.0.1.0.0 |  | Sale Report Delivered Volume
 [sale_report_salesman](sale_report_salesman/) | 15.0.1.0.1 | [![carolina-fernandez](https://github.com/carolina-fernandez.png?size=30px)](https://github.com/carolina-fernandez) | Sale Report Salesman
-[sale_report_salesperson_from_partner](sale_report_salesperson_from_partner/) | 15.0.1.0.0 | [![pilar-vargas](https://github.com/pilar-vargas.png?size=30px)](https://github.com/pilar-vargas) | Sale Report Salesperson From Partner
+[sale_report_salesperson_from_partner](sale_report_salesperson_from_partner/) | 15.0.1.1.0 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | Sale Report Salesperson From Partner
 
 [//]: # (end addons)
 
