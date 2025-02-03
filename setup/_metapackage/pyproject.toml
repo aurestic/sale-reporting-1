@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-sale-reporting"
-version = "18.0.20241220.0"
+version = "18.0.20250203.0"
 dependencies = [
     "odoo-addon-sale_order_line_position==18.0.*",
+    "odoo-addon-sale_report_salesperson_from_partner==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
